@@ -1,1 +1,1 @@
-echo "Test in main" >> C:\\main.txt
+echo "Test in other branch" >> C:\\otherBranch.txt
