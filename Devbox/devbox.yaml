@@ -1,15 +1,3 @@
-name: sample
+name: test-sample
 tasks:
-  - name: write-to-file    
-  - name: install-by-uri
-    parameters:
-      - name: uri
-        value: 'https://community.chocolatey.org/install.ps1'
-  - name: choco
-    parameters:
-        - name: package
-          value: vscode
-  - name: install-by-uri
-    parameters:
-        - name: uri
-          value: 'https://dl-cli.pstmn.io/install/win64.ps1'
+  - name: write-to-file

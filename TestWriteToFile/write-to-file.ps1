@@ -1,1 +1,1 @@
-echo "Testing Customization" >> C:\\intital-setup-test.txt
+echo "Test in main" >> C:\\main.txt
